@@ -24,5 +24,5 @@ Gestión de inventario: Mantén un registro detallado de tus productos, incluyen
 ## Contribución
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este sistema, siéntete libre de abrir un problema o enviar una solicitud de extracción.
 
-##Licencia
+## Licencia
 Este proyecto está bajo la Licencia MIT.
